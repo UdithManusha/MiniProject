@@ -1,0 +1,20 @@
+The Skeleton:
+Create the HTML structure for a responsive 'Academic Performance Tracker' dashboard called 'EduTracker PRO'.
+It should have a fixed sidebar for navigation (links: Dashboard, Performance, GPA Predictor, History) and a main content area. Include sections for:
+A setup modal to choose a major (CS or IS) and year.
+An 'Initialize Profile' section for existing GPA and credits.
+A 'Quick Add Course' form with a dropdown for curriculum and a grid of grade pills (A, B, C, etc.).
+A dashboard card showing 'Cumulative GPA', 'Current Credits', and a degree completion progress bar.
+A 'Course History' table.
+Use Lucide icons for all navigation and headers.
+Dark theme style:
+Write the CSS for the Academic Performance Tracker. Use a dark theme with the following color palette:
+Primary/Maroon: #9b1417
+Warning/Gold: #fbbf24
+Background: Deep Slate #0f172a
+Styling requirements:
+Use a radial gradient background for the body.
+Create a 'glass' effect for cards with subtle borders and shadows.
+Style the sidebar with a fixed position and responsive mobile toggle.
+Create custom 'grade-pill' buttons that change color when selected.
+Ensure full responsiveness for mobile devices using media queries.
